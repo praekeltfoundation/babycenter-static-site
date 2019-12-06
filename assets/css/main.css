@@ -40,7 +40,7 @@ h1, h2, h3, h4, h5, h6 {
  text-align: center;
 }
 .logo__thumbnail {
-  width: auto;
+  width: 65%;
 }
 
 .content {
@@ -66,7 +66,7 @@ h1, h2, h3, h4, h5, h6 {
   padding: 1em 0;
 }
 .footer-logo__thumbnail {
-  width: 70%;
+  width: 35%;
 }
 
 .right-reserve {
@@ -89,7 +89,7 @@ h1, h2, h3, h4, h5, h6 {
     padding: 1em 0 2em;
   }
   .logo__thumbnail {
-    width: 30%;
+    width: 35%;
   }
 
   .content {
@@ -106,7 +106,7 @@ h1, h2, h3, h4, h5, h6 {
     padding: 2em 0;
   }
   .footer-logo__thumbnail {
-    width: 70%;
+    width: 25%;
   }
 
   .right-reserve {
